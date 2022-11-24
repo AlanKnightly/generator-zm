@@ -1,0 +1,19 @@
+{
+  "name": "create-zm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-zm": "bin/create-zm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2",
+    "yeoman-environment": "^3.12.1"
+  }
+}
