@@ -6,7 +6,7 @@ const { hideBin } = require('yargs/helpers')
 const env = yeomanEnv.createEnv();
 const argv = yargs(hideBin(process.argv)).argv
 
-env.registerStub(require("generator-demo"), "demo");
+env.registerStub(require("generator-alanshendemo"), "alanshendemo");
 env.run("zm " + argv._.join(" "), argv);
 
 

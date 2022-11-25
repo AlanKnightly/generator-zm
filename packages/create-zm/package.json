@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "generator-alanshendemo": "^1.0.0",
     "yargs": "^17.6.2",
     "yeoman-environment": "^3.12.1"
   }
